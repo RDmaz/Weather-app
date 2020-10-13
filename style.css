@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(189, 140, 49);  
+}
+.row {
+    
+    display: flex;
+    justify-content: center;
+}
+
+#city-input, #weather-output {
+    max-width: 400px;
+    margin: 0 auto;
+    background-color: rgb(209, 168, 92);
+    color: #4b3a05;
+}
+  
+.banner {
+    color: #4b3a05;
+    
+    font-family: sans-serif;
+    width: 300px center;  
+}
+
+.card-header {
+    background-color: rgb(168, 128, 54);
+    color: #443507;
+    border: solid black;
+    
+}
+
+.card-body {
+    background-color: rgb(218, 164, 64);
+    color: #4b3a05; 
+    border: solid black;
+}
